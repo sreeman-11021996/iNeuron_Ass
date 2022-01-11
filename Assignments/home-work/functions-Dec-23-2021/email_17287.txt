@@ -1,0 +1,204 @@
+From: Medium Daily Digest <noreply@medium.com>
+To: sreemanbitsmech@gmail.com
+Date: Mon, 10 Jan 2022 07:20:00
+Subject: 7 Must-Try Python Projects To Improve Your Freelancing Gigs | Abhay
+ Parashar in Level Up Coding
+
+Body: 
+
+Stories for Sreemanbitsmech
+@sreemanbitsmech (https://medium.com/@sreemanbitsmech?source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+·Member (https://medium.com/@sreemanbitsmech?source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+
+Today's highlights
+
+7 Must-Try Python Projects To Improve Your Freelancing Gigs
+
+Projects That Provide Real Values
+
+Abhay Parashar (https://medium.com/@abhayparashar31?source=email-1d532e316b50-1641763205538-digest.reader-5517fd7b58a6-d8d0bafa80de----0-101------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-1-19eefb85_a8ae_4981_adb1_08ebf20e4e70)
+ in Level Up Coding (https://medium.com/gitconnected?source=email-1d532e316b50-1641763205538-digest.reader-5517fd7b58a6-d8d0bafa80de----0-101------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-1-19eefb85_a8ae_4981_adb1_08ebf20e4e70)
+·6 min read
+
+5 Python Tricks That Made Me A Good Python Developer
+
+Software developers create bugs on a daily basis. It's not completely their fault but it's good to understand…
+
+Varun Singh (https://medium.com/@varun-singh-01?source=email-1d532e316b50-1641763205538-digest.reader--22c967369207----1-101------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-1-19eefb85_a8ae_4981_adb1_08ebf20e4e70)
+·6 min read
+
+Day 59: 60 days of Data Science and Machine Learning Series
+
+NLP and Convolutions…
+
+Naina Chaturvedi (https://medium.com/@naina0412?source=email-1d532e316b50-1641763205538-digest.reader-49a2ae53708b-3786d513fcbd----2-98------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-1-19eefb85_a8ae_4981_adb1_08ebf20e4e70)
+ in Coders Mojo (https://medium.com/coders-mojo?source=email-1d532e316b50-1641763205538-digest.reader-49a2ae53708b-3786d513fcbd----2-98------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-1-19eefb85_a8ae_4981_adb1_08ebf20e4e70)
+·3 min read
+
+Python Programming for Beginners Part-10 (Exception Handling in Python)
+
+Hey guys
+
+Virendra Kumar Shrivastava (https://medium.com/@profvkshrivastava?source=email-1d532e316b50-1641763205538-digest.reader--7f0c6781d2c0----3-98------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-1-19eefb85_a8ae_4981_adb1_08ebf20e4e70)
+·5 min read
+
+In case you missed it
+
+Advanced SQL for Data Professionals
+
+How do you move beyond SELECT , WHERE , GROUP BY Queries ? How to solve SQL questions asked in FAANG…
+
+Nitesh Chaudhry (https://medium.com/@niteshx22?source=email-1d532e316b50-1641763205538-digest.reader-5517fd7b58a6-e0ef0740e8e1----0-71------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-27-f4dc6eb0_a581_4e7b_8e33_265210d4020d)
+ in Level Up Coding (https://medium.com/gitconnected?source=email-1d532e316b50-1641763205538-digest.reader-5517fd7b58a6-e0ef0740e8e1----0-71------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-27-f4dc6eb0_a581_4e7b_8e33_265210d4020d)
+·3 min read
+
+An Introduction to Programming in Rust
+
+Learn Rust from scratch
+
+The Educative Team (https://medium.com/@educative-inc?source=email-1d532e316b50-1641763205538-digest.reader-d0b105d10f0a-76181db9665c----1-71------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-27-f4dc6eb0_a581_4e7b_8e33_265210d4020d)
+ in Better Programming (https://medium.com/better-programming?source=email-1d532e316b50-1641763205538-digest.reader-d0b105d10f0a-76181db9665c----1-71------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-27-f4dc6eb0_a581_4e7b_8e33_265210d4020d)
+·13 min read
+
+Best Projects to Showcase in Machine Learning Portfolio
+
+Machine learning and data science are the buzzwords that are on the internet right now. Artificial…
+
+Suhas Maddali (https://medium.com/@suhas-maddali007?source=email-1d532e316b50-1641763205538-digest.reader-f19413a43ae4-11fd5fa00bfc----2-71------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-27-f4dc6eb0_a581_4e7b_8e33_265210d4020d)
+ in MLearning.ai (https://medium.com/mlearning-ai?source=email-1d532e316b50-1641763205538-digest.reader-f19413a43ae4-11fd5fa00bfc----2-71------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-27-f4dc6eb0_a581_4e7b_8e33_265210d4020d)
+·6 min read
+
+Quick reads
+
+How To Become A Full Stack Data Scientist In 2022
+
+Who is a Full Stack Data Scientist and How Do You Become One In 2022
+
+MrBriit (https://medium.com/@brightkyeremeh1?source=email-1d532e316b50-1641763205538-digest.reader-7dfa987172d6-83ba24eb77e1----0-72------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-28-)
+ in Total Data Science (https://medium.com/total-data-science?source=email-1d532e316b50-1641763205538-digest.reader-7dfa987172d6-83ba24eb77e1----0-72------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-28-)
+·4 min read
+
+House Prices Prediction using Regression Model and Web Scraping
+
+Introduction
+
+Harun Erbay (https://medium.com/@harunerbay?source=email-1d532e316b50-1641763205538-digest.reader-2c8080646786-8791199635b6----1-72------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-28-)
+ in İstanbul Data Science Academy (https://medium.com/i%CC%87stanbuldatascienceacademy?source=email-1d532e316b50-1641763205538-digest.reader-2c8080646786-8791199635b6----1-72------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-28-)
+·4 min read
+
+What is Precision, Recall & F1-Score?
+
+Evaluation of a Model performance is a necessary step after building. In this article, we will see some model…
+
+Mahesh Chavan (https://medium.com/@mahesh.chavan1997?source=email-1d532e316b50-1641763205538-digest.reader--b65b1965804c----2-72------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-28-)
+·3 min read
+
+Based on your reading history
+
+Solve Machine Learning Problems: Hypothesis Testing (Part-2)
+
+Introduction
+
+Sri Harsha Tanamala (https://medium.com/@sriharsha1608?source=email-1d532e316b50-1641763205538-digest.reader-7219b4dc6c4c-25c07755613c----0-59------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-16-54bb7187_9c76_4f0f_8a0c_8f8cf4947d12)
+ in Analytics Vidhya (https://medium.com/analytics-vidhya?source=email-1d532e316b50-1641763205538-digest.reader-7219b4dc6c4c-25c07755613c----0-59------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-16-54bb7187_9c76_4f0f_8a0c_8f8cf4947d12)
+·6 min read
+
+KNN Classification Algorithm in Python
+
+This is a Python code walkthrough of how to implement k-nearest neighbours algorithm
+
+Rishi Sidhu (https://medium.com/@rishisid?source=email-1d532e316b50-1641763205538-digest.reader-283f7138fc2a-65e413e1cea0----1-59------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-16-54bb7187_9c76_4f0f_8a0c_8f8cf4947d12)
+ in AI Graduate (https://medium.com/x8-the-ai-community?source=email-1d532e316b50-1641763205538-digest.reader-283f7138fc2a-65e413e1cea0----1-59------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-16-54bb7187_9c76_4f0f_8a0c_8f8cf4947d12)
+·5 min read
+
+Into the Logistic Regression
+
+Break down the concept of logistic regression and one-vs-all and one-vs-one approach for multi-class…
+
+Satsawat Natakarnkitkul (https://medium.com/@net_satsawat?source=email-1d532e316b50-1641763205538-digest.reader-98111c9905da-75847b0e6f1e----2-59------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-16-54bb7187_9c76_4f0f_8a0c_8f8cf4947d12)
+ in Towards AI (https://medium.com/towards-artificial-intelligence?source=email-1d532e316b50-1641763205538-digest.reader-98111c9905da-75847b0e6f1e----2-59------------------13a0fdf6_f824_465a_84c6_31e04fa5373f-16-54bb7187_9c76_4f0f_8a0c_8f8cf4947d12)
+·8 min read
+
+Best in Machine Learning
+
+How Robot Priests Will Change Human Spirituality
+
+If our tools amplify our intentions, we need to question our motivation for developing robots that automate…
+
+David O'Hara (https://medium.com/@davoh?source=email-1d532e316b50-1641763205538-digest.reader-444d13b52878-913a19386698----0-50----------1eca0103fff3--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+ in OneZero (https://medium.com/one-zero?source=email-1d532e316b50-1641763205538-digest.reader-444d13b52878-913a19386698----0-50----------1eca0103fff3--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+·6 min read
+
+New Zealand Has a Radical Idea for Fighting Algorithmic Bias: Transparency
+
+The 'world's first' algorithm charter is meant to inform citizens and fight against systemic issues in A.I.
+
+Owen Williams (https://medium.com/@ow?source=email-1d532e316b50-1641763205538-digest.reader-444d13b52878-67500ca71b5----1-50----------1eca0103fff3--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+ in OneZero (https://medium.com/one-zero?source=email-1d532e316b50-1641763205538-digest.reader-444d13b52878-67500ca71b5----1-50----------1eca0103fff3--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+·5 min read
+
+Is Spotify's Newly Patented A.I. Plagiarism Detector a Data Collection Scheme?
+
+'Spotify wants machine-made music the same way Uber wants self-driving cars'
+
+Dave Gershgorn (https://medium.com/@dave?source=email-1d532e316b50-1641763205538-digest.reader-444d13b52878-4e2ae3b834c3----2-50----------1eca0103fff3--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+ in OneZero (https://medium.com/one-zero?source=email-1d532e316b50-1641763205538-digest.reader-444d13b52878-4e2ae3b834c3----2-50----------1eca0103fff3--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+·4 min read
+
+Best in Data Science
+
+The Pragmatic Programmers·6 min read
+
+Benchmarking and Profiling Genetic Algorithms
+
+Genetic Algorithms in Elixir - by Sean Moriarity (82 / 101) (https://medium.com/@pragprog/understanding-reinsertion-34bce3f9aab5?source=email-1d532e316b50-1641763205538-digest.reader-9994e759df14-34bce3f9aab5----0-50----------ae5d4995e225--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+
+The Pragmatic Programmers·7 min read
+
+Inside the Democratic Candidates' War for Your Inbox
+
+An exhaustive 2,700-email analysis of donation requests, emojis, and dog pictures
+
+Corinne Purtill (https://medium.com/@corinnepurtill?source=email-1d532e316b50-1641763205538-digest.reader-444d13b52878-9c6efac00a76----2-50----------ae5d4995e225--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+ in OneZero (https://medium.com/one-zero?source=email-1d532e316b50-1641763205538-digest.reader-444d13b52878-9c6efac00a76----2-50----------ae5d4995e225--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+·7 min read
+
+Best in Programming
+
+Accessing an Object's Keys, Values, and Entries in JavaScript
+
+Let's dive into objects
+
+Javascript Jeep🚙💨 (https://medium.com/@jagathishsaravanan?source=email-1d532e316b50-1641763205538-digest.reader-d0b105d10f0a-e7bb5d33d11c----0-50----------decb52b64abf--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+ in Better Programming (https://medium.com/better-programming?source=email-1d532e316b50-1641763205538-digest.reader-d0b105d10f0a-e7bb5d33d11c----0-50----------decb52b64abf--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+·2 min read
+
+5 Things I Learned After Two Years as a Software Engineer at Microsoft
+
+3. Everything can be solved. The important question is: what to solve first?
+
+Ojasvin Sood (https://medium.com/@ojasvinsood?source=email-1d532e316b50-1641763205538-digest.reader-d0b105d10f0a-65e7124651c7----1-50----------decb52b64abf--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+ in Better Programming (https://medium.com/better-programming?source=email-1d532e316b50-1641763205538-digest.reader-d0b105d10f0a-65e7124651c7----1-50----------decb52b64abf--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+·7 min read
+
+How To Save an Image to Core Data With Swift
+
+Saving images, simplified
+
+Amit Rai (https://medium.com/@Amitrai9322?source=email-1d532e316b50-1641763205538-digest.reader-d0b105d10f0a-a1105ae2cf04----2-50----------decb52b64abf--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+ in Better Programming (https://medium.com/better-programming?source=email-1d532e316b50-1641763205538-digest.reader-d0b105d10f0a-a1105ae2cf04----2-50----------decb52b64abf--------13a0fdf6_f824_465a_84c6_31e04fa5373f-12-)
+·6 min read
+
+See more of what you like and less of what you don't.
+Control your recommendations (https://medium.com/me/missioncontrol?source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+
+Read or write from anywhere.
+
+Sent by Medium (https://medium.com/?source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+·P.O. Box 602, San Francisco, CA 94104-0602
+Unsubscribe (https://medium.com/me/email-settings/1d532e316b50/920bcac7cf42?type=social&source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+ from this type of email·Switch to the Weekly Digest (https://medium.com/me/email-settings/1d532e316b50/920bcac7cf42?type=social&preference=2&source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+·Careers (https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+·Help Center (https://help.medium.com/hc/en-us?source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+·Privacy Policy (https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
+·Terms of service (https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=email-1d532e316b50-1641763205538-digest.reader-------------------------13a0fdf6_f824_465a_84c6_31e04fa5373f)
