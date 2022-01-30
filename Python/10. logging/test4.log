@@ -1,0 +1,13 @@
+2022-01-16 13:06:06,107 DEBUG pickle loaded: C:\Users\SREEMAN\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-01-16 13:06:06,286 DEBUG pickle loaded: C:\Users\SREEMAN\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-01-16 13:06:19,829 INFO this is the start of my code and i am trying to enter 4 and 5
+2022-01-16 13:06:19,835 INFO executed succesfully!
+2022-01-16 13:08:25,611 DEBUG pickle loaded: C:\Users\SREEMAN\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-01-16 13:08:25,771 DEBUG pickle loaded: C:\Users\SREEMAN\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-01-16 13:08:30,252 INFO this is the start of my code and i am trying to enter 4 and 0
+2022-01-16 13:08:30,254 ERROR Error has occured
+2022-01-16 13:08:30,254 ERROR Exception occured division by zero
+Traceback (most recent call last):
+  File "<ipython-input-2-a1853e57828c>", line 5, in divbyzero
+    div = val_1/val_2
+ZeroDivisionError: division by zero

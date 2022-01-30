@@ -1,0 +1,194 @@
+From: Medium Daily Digest <noreply@medium.com>
+To: sreemanbitsmech@gmail.com
+Date: Wed, 12 Jan 2022 07:20:00
+Subject: Top Statistics Books for Machine Learning | Dr. GP Pulipaka
+
+Body: 
+
+Stories for Sreemanbitsmech
+@sreemanbitsmech (https://medium.com/@sreemanbitsmech?source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+·Member (https://medium.com/@sreemanbitsmech?source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+
+Today's highlights
+
+Top Statistics Books for Machine Learning
+
+I have looked at 5700 books in this year 2021 alone and picked the best books that were published, under…
+
+Dr. GP Pulipaka (https://medium.com/@gp_pulipaka?source=email-1d532e316b50-1641935562257-digest.reader--c7aa9e38a1fb----0-98------------------114622c7_759f_4a6b_96b7_f8ef3add279c-1-b38c61b0_18cd_43f9_b7d6_92cff1865ff9)
+·3 min read
+
+Are you dropping too many correlated features?
+
+An analysis of current methods and a proposed solution
+
+Brian Pietracatella (https://medium.com/@bxp151?source=email-1d532e316b50-1641935562257-digest.reader-7f60cf5620c9-d1c96654abe6----1-59------------------114622c7_759f_4a6b_96b7_f8ef3add279c-1-b38c61b0_18cd_43f9_b7d6_92cff1865ff9)
+ in Towards Data Science (https://medium.com/towards-data-science?source=email-1d532e316b50-1641935562257-digest.reader-7f60cf5620c9-d1c96654abe6----1-59------------------114622c7_759f_4a6b_96b7_f8ef3add279c-1-b38c61b0_18cd_43f9_b7d6_92cff1865ff9)
+·7 min read
+
+10 Best Machine Learning Projects with datasets
+
+In this blog, we will be discussing the 10 Best Machine Learning Projects with datasets that you need to work…
+
+Let The Data Confess (https://medium.com/@letthedataconfess?source=email-1d532e316b50-1641935562257-digest.reader--6184839c9100----2-98------------------114622c7_759f_4a6b_96b7_f8ef3add279c-1-b38c61b0_18cd_43f9_b7d6_92cff1865ff9)
+·8 min read
+
+APPLY MACHINE LEARNING FOR DETECTING HEART DISEASE
+
+For me, the most important things are my homeland and the ideology I pursue
+
+Quang Khải Nguyễn Hưng (https://medium.com/@liangnguyen612?source=email-1d532e316b50-1641935562257-digest.reader--54b987170c1f----3-98------------------114622c7_759f_4a6b_96b7_f8ef3add279c-1-b38c61b0_18cd_43f9_b7d6_92cff1865ff9)
+·13 min read
+
+In case you missed it
+
+Feature Selection in Machine Learning: Correlation Matrix | Univariate Testing…
+
+Multiple ways to conduct feature selection in machine learning
+
+Zipporah Luna (https://medium.com/@zluna?source=email-1d532e316b50-1641935562257-digest.reader-9758482ba857-1186168fac12----0-71------------------114622c7_759f_4a6b_96b7_f8ef3add279c-27-bf8dc029_1fc5_43d5_bb3d_967ef5051288)
+ in Geek Culture (https://medium.com/geekculture?source=email-1d532e316b50-1641935562257-digest.reader-9758482ba857-1186168fac12----0-71------------------114622c7_759f_4a6b_96b7_f8ef3add279c-27-bf8dc029_1fc5_43d5_bb3d_967ef5051288)
+·4 min read
+
+Machine Learning for Fake Job Detection
+
+A Fake Job Detection Model
+
+Kafaru simmie (https://medium.com/@kafarusimileoluwa?source=email-1d532e316b50-1641935562257-digest.reader-32881626c9c9-6e89d8e5c963----1-71------------------114622c7_759f_4a6b_96b7_f8ef3add279c-27-bf8dc029_1fc5_43d5_bb3d_967ef5051288)
+ in DataDrivenInvestor (https://medium.com/datadriveninvestor?source=email-1d532e316b50-1641935562257-digest.reader-32881626c9c9-6e89d8e5c963----1-71------------------114622c7_759f_4a6b_96b7_f8ef3add279c-27-bf8dc029_1fc5_43d5_bb3d_967ef5051288)
+·6 min read
+
+Predicting Used Car Prices with Machine Learning Techniques
+
+Comparing Performance of Five Different ML Models
+
+Enes Gokce (https://medium.com/@enesgokce?source=email-1d532e316b50-1641935562257-digest.reader-7f60cf5620c9-8a9d8313952----2-71------------------114622c7_759f_4a6b_96b7_f8ef3add279c-27-bf8dc029_1fc5_43d5_bb3d_967ef5051288)
+ in Towards Data Science (https://medium.com/towards-data-science?source=email-1d532e316b50-1641935562257-digest.reader-7f60cf5620c9-8a9d8313952----2-71------------------114622c7_759f_4a6b_96b7_f8ef3add279c-27-bf8dc029_1fc5_43d5_bb3d_967ef5051288)
+·20 min read
+
+Quick reads
+
+Data Scientist vs Data Analyst: know the difference!
+
+It's been a long time since I wrote on Data world. In this post, I am going to clear many of the doubts of…
+
+Dhaval Thakur (https://medium.com/@dhavalthakur?source=email-1d532e316b50-1641935562257-digest.reader--c417ca39f54a----0-72------------------114622c7_759f_4a6b_96b7_f8ef3add279c-28-)
+·3 min read
+
+Regression Definition & Implementing Linear Regression In Python
+
+Hello to everyone!! Today, I will try to explain to you Linear Regression, which is a very frequently used…
+
+Yağız Yaman (https://medium.com/@yagiz-yaman?source=email-1d532e316b50-1641935562257-digest.reader--2d2d79828013----1-72------------------114622c7_759f_4a6b_96b7_f8ef3add279c-28-)
+·4 min read
+
+Machine learning
+
+Machine learning (ML) is the study of algorithms and science models that expert systems have to increasingly…
+
+Ankit raj (https://medium.com/@ankitchandra824209?source=email-1d532e316b50-1641935562257-digest.reader--3ae1068212a6----2-72------------------114622c7_759f_4a6b_96b7_f8ef3add279c-28-)
+·3 min read
+
+Based on your reading history
+
+How to Evaluate Your Machine Learning Models with Python Code!
+
+Use these methods to ensure that you've created a good model
+
+Terence Shin (https://medium.com/@terenceshin?source=email-1d532e316b50-1641935562257-digest.reader-7f60cf5620c9-5f8d2d8d945b----0-59------------------114622c7_759f_4a6b_96b7_f8ef3add279c-16-c0444bea_b26c_41e4_b37a_067618a044c2)
+ in Towards Data Science (https://medium.com/towards-data-science?source=email-1d532e316b50-1641935562257-digest.reader-7f60cf5620c9-5f8d2d8d945b----0-59------------------114622c7_759f_4a6b_96b7_f8ef3add279c-16-c0444bea_b26c_41e4_b37a_067618a044c2)
+·6 min read
+
+Ever Wondered Why Normal Distribution Is So Important?
+
+Explaining the reasons why Gaussian distribution is so successful and widely used probability distribution
+
+Farhad Malik (https://medium.com/@farhadmalik?source=email-1d532e316b50-1641935562257-digest.reader-4689c8214177-110a482abee3----1-59------------------114622c7_759f_4a6b_96b7_f8ef3add279c-16-c0444bea_b26c_41e4_b37a_067618a044c2)
+ in FinTechExplained (https://medium.com/fintechexplained?source=email-1d532e316b50-1641935562257-digest.reader-4689c8214177-110a482abee3----1-59------------------114622c7_759f_4a6b_96b7_f8ef3add279c-16-c0444bea_b26c_41e4_b37a_067618a044c2)
+·9 min read
+
+Decision Tree Classification
+
+A Decision Tree is a simple representation for classifying examples. It is a Supervised Machine Learning…
+
+Afroz Chakure (https://medium.com/@afrozchakure?source=email-1d532e316b50-1641935562257-digest.reader-f5af2b715248-de64fc4d5aac----2-59------------------114622c7_759f_4a6b_96b7_f8ef3add279c-16-c0444bea_b26c_41e4_b37a_067618a044c2)
+ in The Startup (https://medium.com/swlh?source=email-1d532e316b50-1641935562257-digest.reader-f5af2b715248-de64fc4d5aac----2-59------------------114622c7_759f_4a6b_96b7_f8ef3add279c-16-c0444bea_b26c_41e4_b37a_067618a044c2)
+·4 min read
+
+Best in Machine Learning
+
+You Can Buy a Random Facial Recognition Photo on China's Black Market for Just…
+
+Sellers are offering packages of up to 20,000 face images
+
+Dave Gershgorn (https://medium.com/@dave?source=email-1d532e316b50-1641935562257-digest.reader-444d13b52878-c54ab219580f----0-50----------1eca0103fff3--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+ in OneZero (https://medium.com/one-zero?source=email-1d532e316b50-1641935562257-digest.reader-444d13b52878-c54ab219580f----0-50----------1eca0103fff3--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+·3 min read
+
+Google Says It Will Not Build Custom A.I. for Oil and Gas Extraction
+
+A Greenpeace report details Silicon Valley's ties to Big Oil - and spurs Google to take a step towards opting…
+
+Brian Merchant (https://medium.com/@bcmerchant?source=email-1d532e316b50-1641935562257-digest.reader-444d13b52878-72d1f71f42c8----1-50----------1eca0103fff3--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+ in OneZero (https://medium.com/one-zero?source=email-1d532e316b50-1641935562257-digest.reader-444d13b52878-72d1f71f42c8----1-50----------1eca0103fff3--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+·7 min read
+
+Facial Recognition Company Clear Is Going From Airports to Your Office
+
+Plus A.I. that detects drowsy drivers, algorithmic artists and more A.I. news from the week
+
+Dave Gershgorn (https://medium.com/@dave?source=email-1d532e316b50-1641935562257-digest.reader-444d13b52878-99e9a33fde2e----2-50----------1eca0103fff3--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+ in OneZero (https://medium.com/one-zero?source=email-1d532e316b50-1641935562257-digest.reader-444d13b52878-99e9a33fde2e----2-50----------1eca0103fff3--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+·4 min read
+
+Best in Data Science
+
+The Pragmatic Programmers·8 min read
+
+Understanding and Choosing Genotypes
+
+Genetic Algorithms in Elixir - by Sean Moriarity (30 / 101) (https://medium.com/@pragprog/using-behaviours-to-model-problems-95517a087f01?source=email-1d532e316b50-1641935562257-digest.reader-9994e759df14-95517a087f01----0-50----------ae5d4995e225--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+
+The Pragmatic Programmers·5 min read
+
+The Pragmatic Programmers·4 min read
+
+Best in Programming
+
+Configuring Vim to Develop Go Programs
+
+VIM + Plugins = A Powerful IDE for Go (https://medium.com/@pragprog/understanding-the-flow-of-genetic-algorithms-ca3073c58b69?source=email-1d532e316b50-1641935562257-digest.reader-9994e759df14-ca3073c58b69----2-50----------ae5d4995e225--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+
+Ricardo Gerardi (https://medium.com/@ricardo.gerardi?source=email-1d532e316b50-1641935562257-digest.reader-9994e759df14-e839641da4ac----0-50----------decb52b64abf--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+ in The Pragmatic Programmers (https://medium.com/pragmatic-programmers?source=email-1d532e316b50-1641935562257-digest.reader-9994e759df14-e839641da4ac----0-50----------decb52b64abf--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+·7 min read
+
+How To Use Flask-WTForms
+
+Make form validation a breeze
+
+Qiang Hao (https://medium.com/@neohao?source=email-1d532e316b50-1641935562257-digest.reader-d0b105d10f0a-faab71d5a034----1-50----------decb52b64abf--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+ in Better Programming (https://medium.com/better-programming?source=email-1d532e316b50-1641935562257-digest.reader-d0b105d10f0a-faab71d5a034----1-50----------decb52b64abf--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+·5 min read
+
+Create a Graph Database and API With PostgreSQL and Node.js
+
+Harness the power of JSON and table partitioning in PostgreSQL
+
+Nick Pashkov (https://medium.com/@nickpashkov?source=email-1d532e316b50-1641935562257-digest.reader-d0b105d10f0a-d7bddcc00bbb----2-50----------decb52b64abf--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+ in Better Programming (https://medium.com/better-programming?source=email-1d532e316b50-1641935562257-digest.reader-d0b105d10f0a-d7bddcc00bbb----2-50----------decb52b64abf--------114622c7_759f_4a6b_96b7_f8ef3add279c-12-)
+·10 min read
+
+See more of what you like and less of what you don't.
+Control your recommendations (https://medium.com/me/missioncontrol?source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+
+Read or write from anywhere.
+
+Sent by Medium (https://medium.com/?source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+·P.O. Box 602, San Francisco, CA 94104-0602
+Unsubscribe (https://medium.com/me/email-settings/1d532e316b50/eb98dbca2368?type=social&source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+ from this type of email·Switch to the Weekly Digest (https://medium.com/me/email-settings/1d532e316b50/eb98dbca2368?type=social&preference=2&source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+·Careers (https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+·Help Center (https://help.medium.com/hc/en-us?source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+·Privacy Policy (https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
+·Terms of service (https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=email-1d532e316b50-1641935562257-digest.reader-------------------------114622c7_759f_4a6b_96b7_f8ef3add279c)
