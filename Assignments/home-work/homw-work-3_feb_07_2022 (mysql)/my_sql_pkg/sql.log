@@ -1,0 +1,51 @@
+2022-02-11 16:26:52,851 INFO Server Connected
+2022-02-11 16:45:41,056 INFO Server Connected
+2022-02-11 16:46:20,963 INFO Server Connected
+2022-02-11 16:46:23,188 WARNING 1007 (HY000): Can't create database 'cardataset'; database exists
+2022-02-11 16:46:23,643 WARNING 1007 (HY000): Can't create database 'cardataset'; database exists
+2022-02-11 16:54:00,490 INFO Server Connected
+2022-02-11 16:54:21,496 INFO DataBase present
+2022-02-11 16:54:47,815 INFO DataBase present
+2022-02-11 16:55:32,808 INFO DataBase present
+2022-02-11 16:59:17,908 INFO Server Connected
+2022-02-11 16:59:23,114 INFO DataBase present
+2022-02-11 16:59:24,589 INFO DataBase present
+2022-02-11 16:59:57,124 INFO Server Connected
+2022-02-11 17:00:02,943 INFO DataBase present
+2022-02-11 17:00:02,951 WARNING New Table - 1146 (42S02): Table 'cardataset.car' doesn't exist
+2022-02-11 17:00:02,996 INFO Table created successfully
+2022-02-11 17:00:19,022 INFO DataBase present
+2022-02-11 17:00:46,042 INFO DataBase present
+2022-02-11 17:00:46,053 WARNING Table car already exists
+2022-02-11 17:04:24,861 INFO DataBase present
+2022-02-11 17:04:24,863 WARNING Table car already exists
+2022-02-11 17:05:32,804 INFO DataBase present
+2022-02-11 17:05:32,805 WARNING Table car already exists
+2022-02-11 17:11:34,132 INFO DataBase present
+2022-02-11 17:11:34,133 WARNING Table car already exists
+2022-02-11 17:12:21,189 INFO DataBase present
+2022-02-11 17:12:21,190 WARNING Table car already exists
+2022-02-11 17:13:00,956 INFO DataBase present
+2022-02-11 17:13:00,957 WARNING Table car already exists
+2022-02-11 17:14:37,455 INFO Server Connected
+2022-02-11 17:14:41,623 INFO DataBase present
+2022-02-11 17:14:41,625 INFO Table car already exists
+2022-02-11 17:15:31,070 INFO Server Connected
+2022-02-11 17:15:35,819 INFO DataBase present
+2022-02-11 17:15:35,821 INFO Table car already exists
+2022-02-11 17:15:54,337 INFO Server Connected
+2022-02-11 17:15:59,732 INFO DataBase present
+2022-02-11 17:15:59,734 INFO Table car already exists
+2022-02-11 17:16:34,488 INFO DataBase present
+2022-02-11 17:18:37,660 INFO DataBase present
+2022-02-11 17:18:37,675 INFO Table car already exists
+2022-02-11 17:19:17,970 INFO DataBase present
+2022-02-11 17:19:17,983 INFO Table car already exists
+2022-02-11 17:20:37,344 INFO DataBase present
+2022-02-11 17:20:37,355 INFO Table car already exists
+2022-02-11 17:21:56,372 INFO DataBase present
+2022-02-11 17:21:56,384 INFO Table car already exists
+2022-02-11 17:22:44,290 INFO DataBase present
+2022-02-11 17:22:44,305 INFO Table car already exists
+2022-02-11 17:22:51,796 INFO DataBase present
+2022-02-11 17:22:51,806 INFO Table car already exists

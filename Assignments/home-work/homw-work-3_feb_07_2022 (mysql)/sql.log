@@ -1,0 +1,11 @@
+2022-02-11 16:26:18,216 WARNING this is a warning
+2022-02-11 16:39:13,787 INFO Server Connected
+2022-02-11 16:42:09,662 INFO Server Connected
+2022-02-11 16:42:11,232 WARNING {db_name} already exists. {e}
+2022-02-11 16:43:27,104 INFO Server Connected
+2022-02-11 16:43:28,363 WARNING cardataset already exists. 1007 (HY000): Can't create database 'cardataset'; database exists
+2022-02-11 16:44:09,405 INFO Server Connected
+2022-02-11 16:44:09,986 WARNING 1007 (HY000): Can't create database 'cardataset'; database exists
+2022-02-11 17:09:06,933 INFO Server Connected
+2022-02-11 17:09:28,648 INFO Server Connected
+2022-02-11 17:10:24,162 INFO Server Connected
