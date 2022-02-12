@@ -2,6 +2,9 @@ import kivy
 from kivy.app import App
 from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
+from kivy.lang import Builder
+
+Builder.load_file("style.kv")
 
 class MyGrid (Widget):
     name = ObjectProperty(None)
@@ -22,11 +25,7 @@ class MyGrid (Widget):
         self.age.text = ""
         self.edu.text = ""
 
-# Rule - 1
-#kivy file will be named as my.kv because class MyApp has inherited App class (we need to ignore App at the end ,
-# if it was named as "awsome" then kivy file will be awsome.kv)
-# Rule - 2
-# the *.kv file name must be all in lower case.
+
 class MyApp(App):
     def build(self):
         return MyGrid()
