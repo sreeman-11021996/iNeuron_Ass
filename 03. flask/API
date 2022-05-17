@@ -1,0 +1,8 @@
+API -> Application Programming Interface
+Establish a communication b/w heterogeneous systems written in different languages
+
+# In terminal:
+-> pip install flask
+
+get method ->  data is sent by appending to the query (through url)(data is visible) - google search
+post method -> data is hidden and sent in the body - any login

@@ -1,0 +1,17 @@
+2022-01-16 12:57:23,410 ERROR this is my error log
+2022-01-16 12:57:39,039 ERROR this is my error log
+2022-01-16 12:58:10,477 WARNING this is my warning log
+2022-01-16 12:58:10,478 ERROR this is my error log
+2022-01-16 12:58:35,004 INFO this is my info log
+2022-01-16 12:58:35,004 WARNING this is my warning log
+2022-01-16 12:58:35,005 ERROR this is my error log
+2022-01-16 12:58:53,326 INFO this is my info log
+2022-01-16 12:58:53,328 WARNING this is my warning log
+2022-01-16 12:58:53,330 DEBUG this is my debug log
+2022-01-16 12:58:53,332 ERROR this is my error log
+2022-01-16 12:59:29,409 DEBUG pickle loaded: C:\Users\SREEMAN\anaconda3\lib\logging\__init__.py
+2022-01-16 12:59:39,081 INFO this is my info log
+2022-01-16 12:59:39,082 WARNING this is my warning log
+2022-01-16 12:59:39,084 DEBUG this is my debug log
+2022-01-16 12:59:39,084 ERROR this is my error log
+2022-01-16 12:59:39,084 CRITICAL this is my critical log

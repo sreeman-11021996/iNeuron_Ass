@@ -1,0 +1,15 @@
+2022-01-16 12:45:48,488 this is my info log
+2022-01-16 12:45:48,489 this is my warning log
+2022-01-16 12:45:48,490 this is my debug log
+2022-01-16 12:46:49,098 this is my info log
+2022-01-16 12:46:49,101 this is my warning log
+2022-01-16 12:46:49,102 this is my debug log
+2022-01-16 12:48:12,724 this is my info log
+2022-01-16 12:48:12,725 this is my warning log
+2022-01-16 12:48:12,726 this is my debug log
+2022-01-16 12:48:23,100 INFO this is my info log
+2022-01-16 12:48:23,100 WARNING this is my warning log
+2022-01-16 12:48:23,102 DEBUG this is my debug log
+2022-01-16 12:50:50,439 INFO this is my info log
+2022-01-16 12:50:50,441 WARNING this is my warning log
+2022-01-16 12:50:50,441 DEBUG this is my debug log

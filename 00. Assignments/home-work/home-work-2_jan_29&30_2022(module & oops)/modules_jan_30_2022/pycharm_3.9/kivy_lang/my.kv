@@ -1,0 +1,35 @@
+<MyGrid>
+    name:name
+    age:age
+    edu:edu
+
+    GridLayout:
+        cols:1
+        size: root.width - 200, root.height - 200
+        pos: 100,100
+
+        GridLayout:
+            cols:2
+
+            Label:
+                text: "Name: "
+            TextInput:
+                multiline: False
+                id: name
+
+            Label:
+                text: "Age: "
+            TextInput:
+                multiline: False
+                id: age
+
+            Label:
+                text: "Education: "
+            TextInput:
+                multiline: False
+                id: edu
+
+        Button:
+            text: "Submit"
+            font_size: 32
+            on_press: root.press()
