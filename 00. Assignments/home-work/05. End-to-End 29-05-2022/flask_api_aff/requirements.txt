@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+flask
+flask-core
+Flask
+gunicorn
+Jinja2
+Werkzeug
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pymongo
+dnspython
+=======
 flask
 flask-core
 numpy
@@ -9,3 +24,4 @@ gunicorn
 Jinja2
 Werkzeug
 pickle
+>>>>>>> 711a196be9297c4bc3ae716d5b9b5ffc417514d4
